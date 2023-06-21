@@ -1,0 +1,26 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="icon_education">
+        <g id="Group 3">
+            <path id="Fill 1" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M80 40C80 62.091 62.092 80 40 80C17.909 80 0 62.091 0 40C0 17.909 17.909 0 40 0C62.092 0 80 17.909 80 40Z"
+                  fill="#ffdc2b"/>
+        </g>
+        <path id="Stroke 4"
+              d="M54.1835 39.757V53.244C54.1835 54.452 53.2045 55.431 51.9955 55.431H26.9755C25.8015 55.431 24.8505 54.48 24.8505 53.307V40.757"
+              stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path id="Stroke 6" fill-rule="evenodd" clip-rule="evenodd"
+              d="M64.9199 34.4594L40.5269 45.3924C39.7989 45.6854 38.9849 45.6854 38.2579 45.3924L14.2149 34.6004C13.3789 34.2634 13.3589 33.0884 14.1829 32.7234L38.4159 20.8914C39.0379 20.6154 39.7469 20.6154 40.3689 20.8914L64.9459 32.8764C65.6409 33.1834 65.6239 34.1754 64.9199 34.4594Z"
+              stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path id="Stroke 8" d="M61.871 36.4059V46.5529" stroke="#000" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round"/>
+        <path id="Stroke 10" fill-rule="evenodd" clip-rule="evenodd"
+              d="M61.871 46.2203L59.427 53.9173H64.314L61.871 46.2203Z" stroke="#000" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round"/>
+        <path id="Fill 12" fill-rule="evenodd" clip-rule="evenodd"
+              d="M63.4335 46.2184C63.4335 47.0814 62.7335 47.7804 61.8715 47.7804C61.0075 47.7804 60.3085 47.0814 60.3085 46.2184C60.3085 45.3554 61.0075 44.6564 61.8715 44.6564C62.7335 44.6564 63.4335 45.3554 63.4335 46.2184Z"
+              fill="#000"/>
+        <path id="Stroke 14" fill-rule="evenodd" clip-rule="evenodd"
+              d="M63.4335 46.2184C63.4335 47.0814 62.7335 47.7804 61.8715 47.7804C61.0075 47.7804 60.3085 47.0814 60.3085 46.2184C60.3085 45.3554 61.0075 44.6564 61.8715 44.6564C62.7335 44.6564 63.4335 45.3554 63.4335 46.2184Z"
+              stroke="#000"/>
+    </g>
+</svg>
